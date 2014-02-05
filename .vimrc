@@ -100,4 +100,3 @@ set t_vb=
 let g:pydiction_location = '/home/eip/.vim/ftplugin/complete-dict'
 set noic
 
-call pathogen#infect()
